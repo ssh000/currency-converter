@@ -1,0 +1,36 @@
+.exchange-page {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.exchange-page__currency-converter {
+    width: 300px;
+    margin: 42px;
+}
+.exchange-page__pair:first-child {
+    background-color: #2C73F4;
+}
+.exchange-page__pair {
+    background-color: #2E60C6;
+    margin: 16px 0;
+    padding: 16px;
+    border-radius: 3px;
+}
+.exchange-page__pair-controls, .exchange-page__pair-details {
+    display: flex;
+    padding: 8px 0;
+    justify-content: space-between;
+}
+.exchange-page__pair-details {
+    padding: 8px 0;
+    color: #DCE1E5;
+    font-size: 12px;
+}
+.exchange-page__button {
+    text-align: center;
+    font-weight: bold;
+    background: #333;
+    padding: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+}

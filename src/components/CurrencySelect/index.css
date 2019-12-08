@@ -1,0 +1,9 @@
+.currency-select {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 22px;
+    text-align: right;
+    -webkit-appearance: none;
+    outline: none;
+}

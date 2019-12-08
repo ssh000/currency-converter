@@ -1,0 +1,15 @@
+.currency-input {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 22px;
+    width: 100%;
+    text-align: right;
+    -webkit-appearance: none;
+    outline: none;
+}
+.currency-input::-webkit-inner-spin-button, 
+.currency-input::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}

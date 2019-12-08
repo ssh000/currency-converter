@@ -1,0 +1,16 @@
+.transaction {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px;
+}
+.transaction-info__time {
+    padding: 8px 0;
+    color: #DCE1E5;
+    font-size: 12px;
+}
+.transaction-details__to {
+    color: greenyellow;
+}
+.transaction-details__from, .transaction-details__to {
+    text-align: right;
+}
