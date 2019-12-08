@@ -7,3 +7,6 @@
     -webkit-appearance: none;
     outline: none;
 }
+.currency-select option {
+    background-color: #2c73f4;
+}
